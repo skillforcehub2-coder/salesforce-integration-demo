@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "name": "Skillforce Hub",
+      "industry": "Education",
+      "phone": "9876543210"
+    },
+    {
+      "name": "Brillio",
+      "industry": "Technology",
+      "phone": "9123456789"
+    },
+    {
+      "name": "Infosys",
+      "industry": "IT Services",
+      "phone": "9988776655"
+    }
+  ],
+  "contacts": [
+    {
+      "firstName": "Rahul",
+      "lastName": "Sharma",
+      "email": "rahul@test.com"
+    },
+    {
+      "firstName": "Priya",
+      "lastName": "Reddy",
+      "email": "priya@test.com"
+    },
+    {
+      "firstName": "John",
+      "lastName": "David",
+      "email": "john@test.com"
+    }
+  ]
+}
